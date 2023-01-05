@@ -1,0 +1,11 @@
+{
+    "nombre": "john",
+    "apellido": "villanueva",
+    "habilidades": [
+        "matematicas",
+        "fisica",
+        "programacion",
+        "musica",
+        "etc"
+    ]
+}
